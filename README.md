@@ -1,2 +1,2 @@
- incluye todos los códigos empleados en el desarrollo de mi proyecto. Aquí se encuentran implementaciones clave que abarcan diversas funcionalidades, optimizaciones, y componentes del sistema. Los códigos están organizados por módulos y responden a los requerimientos establecidos para asegurar un flujo eficiente y coherente dentro del proyecto
+Contiene los códigos utilizados en el desarrollo del proyecto. Abarcan diversas implementaciones y funcionalidades esenciales para su funcionamiento, y han sido diseñados para cumplir con los objetivos y requerimientos solicitados.
  
