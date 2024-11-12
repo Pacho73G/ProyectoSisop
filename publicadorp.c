@@ -1,6 +1,6 @@
 /**************************************************************************
 Pontificia Universidad Javeriana
-Autor: Juan Alba, Jorge Fortich, Francisco Guzman, Santiago Botero.
+Autor:  Francisco Guzman, Juan Alba, Jorge Fortich,Santiago Botero.
 Fecha: 11/11/24
 Materia: Sistemas Operativos
 Tema: Programa publicador
