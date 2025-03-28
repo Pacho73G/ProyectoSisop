@@ -1,7 +1,7 @@
 
 # 📰 Proyecto de Sistemas Operativos - Sistema de Noticias (Publicador/Suscriptor)
 
-Este proyecto implementa un **sistema de comunicación basado en el patrón Publicador/Suscriptor** utilizando **tuberías con nombre (FIFO)** en lenguaje C. Fue desarrollado como parte del curso **Sistemas Operativos SIU4085** en la Pontificia Universidad Javeriana.
+Este proyecto implementa un **sistema de comunicación basado en el patrón Publicador/Suscriptor** utilizando **tuberías con nombre (FIFO)** en lenguaje C. Fue desarrollado como parte del curso **Sistemas Operativos** en la Pontificia Universidad Javeriana.
 
 ## 🧠 Descripción General
 
